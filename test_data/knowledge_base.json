@@ -1,0 +1,122 @@
+[
+  {
+    "content": "京东自营商品满59元免基础运费，不满59元收取6元运费。PLUS会员享受无限次免邮特权，无门槛免运费。",
+    "category": "shipping"
+  },
+  {
+    "content": "第三方商家商品满99元免运费包邮，不满99元收取6元运费。支持商品运费单独设置，以结算页显示为准。",
+    "category": "shipping"
+  },
+  {
+    "content": "生鲜买菜订单满39元免配送费，不满39元收取3元配送费。",
+    "category": "shipping"
+  },
+  {
+    "content": "大件商品超重附加费：单件超过30公斤加收10元，超过50公斤加收20元。",
+    "category": "shipping"
+  },
+  {
+    "content": "夜间配送服务（21:00-06:00）属于增值服务，需额外收取5-10元夜间服务费，具体以页面显示为准。",
+    "category": "shipping"
+  },
+  {
+    "content": "PLUS会员运费优惠：享受无限次免邮特权，无门槛免运费，包括生鲜、大件商品均免邮。",
+    "category": "shipping"
+  },
+  {
+    "content": "京东自营配送订单物流查询：您可以进入我的订单点击对应订单查询即可看到物流更新。",
+    "category": "logistics"
+  },
+  {
+    "content": "第三方快递配送订单物流查询方法：您可以进入我的订单根据物流信息中的快递单号，登陆第三方快递官网查询物流轨迹。",
+    "category": "logistics"
+  },
+  {
+    "content": "京东快递也可根据运单号点击链接查询 http://www.jdwl.com/",
+    "category": "logistics"
+  },
+  {
+    "content": "京东自营商品售后返修审核时效：当天18:00前提交申请，一般可在当天22:00前审核完毕；当天18:00后提交申请，一般可在次日12:00前审核完毕。",
+    "category": "aftersales"
+  },
+  {
+    "content": "第三方卖家商品售后审核时效：申请后48小时内审核完毕（部分商家双休、节假日不工作，审核会有延迟）。",
+    "category": "aftersales"
+  },
+  {
+    "content": "商品出库前取消订单退款时效：若您在商品未出库前提交取消申请，会在30分钟后完成退款审核。",
+    "category": "refund"
+  },
+  {
+    "content": "拒收订单后退款流程：订单拒收后系统会自动帮您提交取消申请，商品退库之后系统会为您退款到原支付账户。",
+    "category": "refund"
+  },
+  {
+    "content": "微信支付零钱/零钱通/QQ钱包退款原路返回，1小时内到账。",
+    "category": "refund"
+  },
+  {
+    "content": "储蓄卡退款原路返回，1-7个工作日到账。",
+    "category": "refund"
+  },
+  {
+    "content": "信用卡退款原路返回，1-15个工作日到账。",
+    "category": "refund"
+  },
+  {
+    "content": "京东卡/京东E卡支付退款无法直接兑换成现金，会在1个工作日左右返还至您支付的京东卡/京东E卡内。",
+    "category": "refund"
+  },
+  {
+    "content": "退款金额在1000元及以下可选择退京东余额，退款时效即时到账。",
+    "category": "refund"
+  },
+  {
+    "content": "商品支持七天无理由退货，前提是商品完好、配件齐全且不影响二次销售。",
+    "category": "return"
+  },
+  {
+    "content": "我们支持开具增值税专用发票，请在下单页面选择企业发票并填写相关资质信息。",
+    "category": "invoice"
+  },
+  {
+    "content": "支持支付宝花呗分期和京东白条分期付款，最高可支持24期免息。",
+    "category": "payment"
+  },
+  {
+    "content": "DJI Mini 4 Pro的最长续航飞行时间为34分钟（使用智能飞行电池）或45分钟（使用长续航智能飞行电池）。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI Mini 4 Pro支持4K/60fps HDR视频拍摄，支持10-bit D-Log M色彩模式，可拍摄4800万像素照片。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI Mini 4 Pro最大抗风等级为5级风，即可在8.0-10.7米/秒的风速下稳定飞行。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI Mini 4 Pro支持O4增强图传，最远图传传输距离可达20公里。开启方式：进入DJI Fly App设置-图传设置-开启增强图传模式。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI RC 2遥控器使用注意事项：1.避免在高温环境使用 2.定期更新固件 3.保持天线展开状态 4.避免遮挡信号。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI遥控器连接手机热点WiFi方法：设置-网络设置-WiFi-选择手机热点名称-输入密码连接。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI Mini 4 Pro机身重量仅249克，无需注册即可飞行（在大多数国家和地区）。",
+    "category": "dji_product"
+  },
+  {
+    "content": "DJI Mini 4 Pro配备全向避障系统，包含前、后、左、右、上、下六个方向的障碍物感知能力。",
+    "category": "dji_product"
+  },
+  {
+    "content": "iPhone 15 Pro提供四种颜色：原色钛金属、蓝色钛金属、白色钛金属和黑色钛金属。",
+    "category": "product"
+  }
+]
